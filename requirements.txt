@@ -1,0 +1,13 @@
+geopandas==0.14.0
+odc_geo==0.4.1
+odc_stac==0.3.6
+pandas==2.1.1
+planetary_computer==1.0.0
+psycopg2==2.9.9
+pyproj==3.6.1
+pystac==1.8.4
+pystac_client==0.7.5
+rich==13.6.0
+rioxarray==0.15.0
+Shapely==2.0.1
+SQLAlchemy==2.0.21
